@@ -1,0 +1,7 @@
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\obj\Debug\question12.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\obj\Debug\question12.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\bin\Debug\question12.exe.config
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\bin\Debug\question12.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\bin\Debug\question12.pdb
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\obj\Debug\question12.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\question12\obj\Debug\question12.pdb

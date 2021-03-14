@@ -1,0 +1,7 @@
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\obj\Debug\bankQuestion5.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\bin\Debug\bankQuestion5.exe.config
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\bin\Debug\bankQuestion5.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\bin\Debug\bankQuestion5.pdb
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\obj\Debug\bankQuestion5.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\obj\Debug\bankQuestion5.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\bankQuestion5\obj\Debug\bankQuestion5.pdb

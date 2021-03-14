@@ -1,0 +1,6 @@
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\bin\Debug\Question9.exe.config
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\bin\Debug\Question9.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\bin\Debug\Question9.pdb
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\obj\Debug\Question9.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\obj\Debug\Question9.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\Question9\obj\Debug\Question9.pdb

@@ -1,0 +1,7 @@
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\obj\Debug\multiThreadFinal.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\obj\Debug\multiThreadFinal.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\bin\Debug\multiThreadFinal.exe.config
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\bin\Debug\multiThreadFinal.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\bin\Debug\multiThreadFinal.pdb
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\obj\Debug\multiThreadFinal.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\multiThreadFinal\obj\Debug\multiThreadFinal.pdb

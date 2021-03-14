@@ -1,0 +1,7 @@
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\obj\Debug\restaurantQuestion7.csprojAssemblyReference.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\obj\Debug\restaurantQuestion7.csproj.CoreCompileInputs.cache
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\bin\Debug\restaurant.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\bin\Debug\restaurant.pdb
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\obj\Debug\restaurant.exe
+C:\Users\liron\Source\Repos\multiThreadFinal\restaurant\obj\Debug\restaurant.pdb
